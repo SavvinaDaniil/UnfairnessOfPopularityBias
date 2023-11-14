@@ -7,5 +7,3 @@ In this repository, we are working on reproducing three studies on the topic of 
 * **Division** of users in groups: the studies define propensity for popular items differently and divide them accordingly.
 * **Evaluation** strategy: the studies make different choices in the testing process.
 
-Notebooks 2, 3, and 4 should be run on Google Colab.
-
