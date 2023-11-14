@@ -2,3 +2,4 @@ numpy
 cornac
 jupyter
 pandas==1.5
+seaborn
