@@ -61,3 +61,6 @@ Once you have completed the installation steps, you can now run the experiments 
 
 2. Open the recommendation notebooks from the project directory.
 
+
+
+*This research was carried out with funding from the KB National Library of the Netherlands.*
